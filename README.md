@@ -11,6 +11,11 @@ Insurance companies must price policies according to risk to remain financially 
 
 The analysis uses the French Motor Third Party Liability dataset containing approximately 400,000 motor insurance policies. Key variables include claim counts, exposure, driver demographics, and vehicle characteristics.
 
+## Repository Contents
+- `CLifeInsurance.Pricing&Profitability Memorandum.pdf` – Detailed analysis and insights.
+- `CLifeInsurance.Pricing&ProfitabilityCalculations.xlsx` – Calculations and Analysis done in Excel Workbook
+
+
 ## Skills Demonstrated:
 -Actuarial data analysis
 
