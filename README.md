@@ -13,8 +13,7 @@ The analysis uses the French Motor Third Party Liability dataset containing appr
 
 ## Repository Contents
 - `CLifeInsurance.Pricing&Profitability Memorandum.pdf` – Detailed analysis and insights.
-- `CLifeInsurance.Pricing&ProfitabilityCalculations.xlsx` – Calculations and Analysis done in Excel Workbook
-
+-Link to Full Excel Model: MotorClaimFrequency.AnalysisCalculations
 
 ## Skills Demonstrated:
 -Actuarial data analysis
