@@ -16,7 +16,7 @@ The analysis uses the French Motor Third Party Liability dataset containing appr
 
 
 - Due to GitHub file sie limits, the full Excel Model can be accesed here
-  [Access Full Excel Model](MotorClaimFrequency.AnalysisCalculations)
+  [Access Full Excel Model](https://docs.google.com/spreadsheets/d/15HEvydijvaBH2Q7GtZI6Non0vMWYZK08/edit?usp=drive_link&ouid=114265673637850948271&rtpof=true&sd=true)
   
 
 
